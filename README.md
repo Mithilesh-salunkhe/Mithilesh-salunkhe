@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  🔭 Currently working on **Data Structures and Algorithms**<br><br>
+  🔭 Currently learning **Data Structures and Algorithms**<br><br>
   🌱 Learning **Backend systems, WebSockets, and real-time communication**<br><br>
   👯 Looking to collaborate on **MERN stack-based projects**<br><br>
   📫 Reach me at **mithileshsalunkhe1603@gmail.com**<br><br>
