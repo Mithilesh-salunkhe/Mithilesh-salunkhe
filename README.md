@@ -9,7 +9,7 @@
   🌱 Learning **Backend systems, WebSockets, and real-time communication**<br><br>
   👯 Looking to collaborate on **MERN stack-based projects**<br><br>
   📫 Reach me at **mithileshsalunkhe1603@gmail.com**<br><br>
-  📄 <a href="[https://drive.google.com/file/d/1m7IqcXzH_j8VrFybALBsYLGzep-W5xvF/view](https://drive.google.com/file/d/1ldasWlxxBpcACsziBe-PxWm77eQW_JBw/view?usp=sharing)" target="_blank">View My Resume</a>
+  📄 <a href="https://drive.google.com/file/d/1m7IqcXzH_j8VrFybALBsYLGzep-W5xvF/view" target="_blank">View My Resume</a>
 </p>
 
 ---
